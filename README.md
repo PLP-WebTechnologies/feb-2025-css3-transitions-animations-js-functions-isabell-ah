@@ -7,9 +7,11 @@ Use JavaScript functions for dynamic behavior.
 Implement local storage for data persistence.
 
 ## Instructions
+
 Add CSS animations to elements like buttons or images.
 
->[!NOTE]
+> [!NOTE]
+>
 > - Write a JavaScript function that:
 > - Stores and retrieves user preferences using localStorage.
 > - Implements an animation triggered by user actions.
@@ -19,5 +21,11 @@ Add CSS animations to elements like buttons or images.
 Create a CSS animation.
 Store data in localStorage.
 Apply JavaScript to trigger animations.
+These changes implement:
 
-Happy Coding! 💻✨
+## Achievement
+
+Theme preference saved in localStorage
+Button animations (hover, active states, and ripple effect)
+Fade-in animation for quotes
+Pulse animation when toggling the box style
